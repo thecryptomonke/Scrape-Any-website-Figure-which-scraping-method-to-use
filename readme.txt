@@ -1,5 +1,7 @@
 A VPN is highly reccomended if you don't want to get your ip address banned by the website
 make sure you download packages in requirements!!
+firstly enter this in your console 
+pip install -r requirements.txt
 
 A simple guide to scraping 
 step 1 
